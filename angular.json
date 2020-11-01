@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "highchart-salesApp"
+    }
+  },
+  "defaultProject": "highchart-salesApp",
+  "cli": {
+    "analytics": "f99d6015-54b9-4626-a1f9-19089cfcf493"
+  }
 }
